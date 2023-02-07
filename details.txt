@@ -1,0 +1,11 @@
+Course Recommendation System using Udemy Dataset 
+
+
+Algorithms 
+
+Cosine Similarity
+Linear Similarity
+
+Using "neattext" library which is used in Natural Language processing that helps in removing stop words, special characters, also helps in stemming, lematization, and many nore in NLP.
+
+Dashboard using Chart.js 
